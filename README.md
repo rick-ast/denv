@@ -1,2 +1,3 @@
 # denv
-Development environment config files for Mac
+
+Development environment setup for Mac
