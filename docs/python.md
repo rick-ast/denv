@@ -4,7 +4,7 @@
 
 ### Install [pyenv](https://github.com/pyenv/pyenv)
 
-**Installation**
+**Installation (Optional)**
 
 1. `brew install pyenv`
 2. `echo 'export PATH="$HOME/.pyenv/shims:$PATH"' >> ~/.zshrc`
@@ -25,5 +25,5 @@
 **Usage**
 
 1. `poetry init`
-2. `poetry env use <version>`
+2. `poetry env use <version>` (optional)
 3. `poetry install`
