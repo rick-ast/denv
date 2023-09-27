@@ -2,9 +2,9 @@
 
 ### Install [Homebrew](https://brew.sh)
 
-### Install [pyenv](https://github.com/pyenv/pyenv)
+### Install [pyenv](https://github.com/pyenv/pyenv) (Optional)
 
-**Installation (Optional)**
+**Installation**
 
 1. `brew install pyenv`
 2. `echo 'export PATH="$HOME/.pyenv/shims:$PATH"' >> ~/.zshrc`
